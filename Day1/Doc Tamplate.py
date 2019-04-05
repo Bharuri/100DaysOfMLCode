@@ -97,7 +97,4 @@ def create_folder(df):
         #os.remove(excel_folderpath)
         #os.remove(in_file)
         
-        #create zip files
-#         zip(full_folder_path,'C:/Users/sanketg/Desktop/Fax Blast/CHI_Cardio_Zip_Files/'+str(row['Organization_Name'])+ '_'+str(row['Provider_Fax']) )    
-            
-            
+       
